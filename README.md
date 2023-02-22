@@ -1,2 +1,2 @@
-# zabbix-mibs-synology
-XML files for integration of synology devices in ZABBIX via SNMP
+# ZABBIX MIBS SYNOLOGY
+XML files for integration of SYNOLOGY devices in ZABBIX via SNMP
